@@ -1,0 +1,92 @@
+h3 { 
+    text-transform: initial;
+    font-style: oblique;
+    font-display:auto ;
+    font-size: 30px;
+    color: rgb(20, 15, 15);
+}
+
+h1 {
+    text-transform: initial;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-decoration-color: black;
+    color: black;
+
+}
+
+
+
+#ban a { display: inline-block;
+    margin-right: 5%;
+    border-radius: 7px;
+    border: 3px black solid;
+    text-decoration: none;
+    padding: 10px 5px 10px 5px;
+    margin-top:3% ;
+    margin-left: 5%;
+    background-color: #fff;
+}
+header{
+    margin-left: 0;
+    background-image: url("038.jpg");
+    height: 50%;
+    width: 100%;
+    padding-bottom: 5%;
+}
+
+
+
+.right {
+float: right;
+width: 70%;
+margin-right: 5%;
+font-size:20px;
+}
+
+.left { 
+    float: left;
+    width: 15%;
+
+}
+
+
+
+ nav a { 
+    font-variant: normal;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: ghostwhite;
+    border: solid;
+    border-radius: 7px;
+    width: 85%;
+    height: 20%;
+    display: block;
+    text-align: center;
+    margin-left:15% ;
+    margin-bottom: 50%;
+    padding:20px 10px 20px 10px;
+background-color: darkgray;
+
+
+}
+    a:hover{
+        background-color:skyblue;
+        opacity: auto;
+    }
+
+    a:focus{
+        background-color: brown;
+    }
+
+    a:active{
+        background-color: green;
+    }
+
+
+
+body { background-color: rgb(207, 195, 195);
+    opacity: auto;
+
+}
